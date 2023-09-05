@@ -2,7 +2,7 @@
 
 A comprehensive back-end API for a social media platform, built using Node.js, Express, and Mongoose.
 
-[Video Walkthrough Here!]()
+[Video Walkthrough Here!](https://youtu.be/JnHQi4nwjBc)
 
 ## Table of Contents
 
